@@ -1,4 +1,4 @@
-# elife-paw-feed
+# elife pubmed feed
 
 The goal of this repo is to create a data feed that pipes information into
 PubMed. We will use workflows
