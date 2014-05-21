@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.4//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd">
+<ArticleSet>
+  <Article>
+    <Journal>
+      <PublisherName>eLife Sciences Publications Limited</PublisherName>
+      <JournalTitle>elife</JournalTitle>
+      <Issn>2050-084X</Issn>
+      <Volume>2</Volume>
+      <Issue>0</Issue>
+      <PubDate PubStatus="epublish">
+        <Year>2013</Year>
+        <Month>October</Month>
+        <Day>8</Day>
+      </PubDate>
+    </Journal>
+    <Replaces>24150750</Replaces>
+    <ArticleTitle>Cytoplasmic genetic variation and extensive cytonuclear interactions influence natural variation in the metabolome</ArticleTitle>
+    <ELocationID EIdType="pii">e00776</ELocationID>
+    <ELocationID EIdType="doi">10.7554/eLife.00776</ELocationID>
+    <Language>EN</Language>
+    <AuthorList>
+      <Author>
+        <FirstName>Bindu</FirstName>
+        <LastName>Joseph</LastName>
+        <Affiliation>Department of Plant Sciences,  University of California, Davis, Davis,  United States</Affiliation>
+      </Author>
+      <Author>
+        <FirstName>Jason A</FirstName>
+        <LastName>Corwin</LastName>
+      </Author>
+      <Author>
+        <FirstName>Baohua</FirstName>
+        <LastName>Li</LastName>
+      </Author>
+      <Author>
+        <FirstName>Suzi</FirstName>
+        <LastName>Atwell</LastName>
+      </Author>
+      <Author>
+        <FirstName>Daniel J</FirstName>
+        <LastName>Kliebenstein</LastName>
+      </Author>
+    </AuthorList>
+    <ArticleIdList>
+      <ArticleId IdType="pii">2/0/e00776</ArticleId>
+      <ArticleId IdType="doi">10.7554/eLife.00776</ArticleId>
+    </ArticleIdList>
+    <Abstract>
+
+Understanding genome to phenotype linkages has been greatly enabled by genomic sequencing. However, most genome analysis is typically confined to the nuclear genome. We conducted a metabolomic QTL analysis on a reciprocal RIL population structured to examine how variation in the organelle genomes affects phenotypic variation. This showed that the cytoplasmic variation had effects similar to, if not larger than, the largest individual nuclear locus. Inclusion of cytoplasmic variation into the genetic model greatly increased the explained phenotypic variation. Cytoplasmic genetic variation was a central hub in the epistatic network controlling the plant metabolome. This epistatic influence manifested such that the cytoplasmic background could alter or hide pairwise epistasis between nuclear loci. Thus, cytoplasmic genetic variation plays a central role in controlling natural variation in metabolomic networks. This suggests that cytoplasmic genomes must be included in any future analysis of natural variation.
+DOI: http://dx.doi.org/10.7554/eLife.00776.001
+
+</Abstract>
+    <ObjectList>
+      <Object Type="keyword">
+        <Param Name="value">genomic variation</Param>
+      </Object>
+      <Object Type="keyword">
+        <Param Name="value">maternal genetics</Param>
+      </Object>
+      <Object Type="keyword">
+        <Param Name="value">organellar variation</Param>
+      </Object>
+    </ObjectList>
+  </Article>
+</ArticleSet>
