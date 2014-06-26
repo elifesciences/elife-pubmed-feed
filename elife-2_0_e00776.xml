@@ -45,7 +45,23 @@
         <LastName>Kliebenstein</LastName>
         <Suffix>Jr</Suffix>
       </Author>
+      <Author>
+        <CollectiveName>North American Barley Genome Project</CollectiveName>
+      </Author>
     </AuthorList>
+    <GroupList>
+      <Group>
+        <GroupName>North American Barley Genome Project</GroupName>
+        <IndividualName>
+          <FirstName>John Jacob</FirstName>
+          <LastName>Han</LastName>
+        </IndividualName>
+        <IndividualName>
+          <FirstName>Laura</FirstName>
+          <LastName>Clancy</LastName>
+        </IndividualName>
+      </Group>
+    </GroupList>
     <ArticleIdList>
       <ArticleId IdType="doi">10.7554/eLife.00776</ArticleId>
     </ArticleIdList>
