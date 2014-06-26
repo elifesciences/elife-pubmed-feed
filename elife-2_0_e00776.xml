@@ -10,7 +10,7 @@
       <Issue>0</Issue>
       <PubDate PubStatus="epublish">
         <Year>2013</Year>
-        <Month>October</Month>
+        <Month>10</Month>
         <Day>8</Day>
       </PubDate>
     </Journal>
@@ -49,6 +49,23 @@
     <ArticleIdList>
       <ArticleId IdType="doi">10.7554/eLife.00776</ArticleId>
     </ArticleIdList>
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2013</Year>
+        <Month>06</Month>
+        <Day>15</Day>
+      </PubDate>
+      <PubDate PubStatus="accepted">
+        <Year>2013</Year>
+        <Month>10</Month>
+        <Day>30</Day>
+      </PubDate>
+      <PubDate PubStatus="aheadofprint">
+        <Year>2013</Year>
+        <Month>10</Month>
+        <Day>8</Day>
+      </PubDate>
+    </History>
     <Abstract> Understanding genome to phenotype linkages has been greatly enabled by genomic
       sequencing. However, most genome analysis is typically confined to the nuclear genome. We
       conducted a metabolomic QTL analysis on a reciprocal RIL population structured to examine how
