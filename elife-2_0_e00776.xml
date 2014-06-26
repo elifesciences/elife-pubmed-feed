@@ -115,6 +115,9 @@
         <Object Type="keyword">
           <Param Name="value">human</Param>
         </Object>
+        <Object Type="NCBI:pubchem-substance">
+          <Param Name="id">46391334</Param>
+        </Object>
       </Object>
     </ObjectList>
   </Article>
