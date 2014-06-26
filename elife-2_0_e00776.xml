@@ -25,7 +25,8 @@
         <Affiliation>Department of Plant Sciences,  University of California, Davis, Davis,  United States</Affiliation>
       </Author>
       <Author>
-        <FirstName>Jason A</FirstName>
+        <FirstName>Jason</FirstName>
+        <MiddleName>A</MiddleName>
         <LastName>Corwin</LastName>
       </Author>
       <Author>
@@ -37,7 +38,8 @@
         <LastName>Atwell</LastName>
       </Author>
       <Author>
-        <FirstName>Daniel J</FirstName>
+        <FirstName>Daniel</FirstName>
+        <MiddleName>J</MiddleName>
         <LastName>Kliebenstein</LastName>
       </Author>
     </AuthorList>
