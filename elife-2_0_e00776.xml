@@ -14,7 +14,7 @@
         <Day>8</Day>
       </PubDate>
     </Journal>
-    <Replaces>24150750</Replaces>
+    <Replaces IdType="doi">10.7554/eLife.00776</Replaces>
     <ArticleTitle>Cytoplasmic genetic variation and extensive cytonuclear interactions influence
       natural variation in the metabolome</ArticleTitle>
     <ELocationID EIdType="doi">10.7554/eLife.00776</ELocationID>
