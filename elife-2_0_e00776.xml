@@ -45,6 +45,18 @@
     <ArticleIdList>
       <ArticleId IdType="doi">10.7554/eLife.00776</ArticleId>
     </ArticleIdList>
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2007</Year>
+        <Month>06</Month>
+        <Day>15</Day>
+      </PubDate>
+      <PubDate PubStatus="accepted">
+        <Year>2007</Year>
+        <Month>10</Month>
+        <Day>30</Day>
+      </PubDate>
+    </History>
     <Abstract>
 
 Understanding genome to phenotype linkages has been greatly enabled by genomic sequencing. However, most genome analysis is typically confined to the nuclear genome. We conducted a metabolomic QTL analysis on a reciprocal RIL population structured to examine how variation in the organelle genomes affects phenotypic variation. This showed that the cytoplasmic variation had effects similar to, if not larger than, the largest individual nuclear locus. Inclusion of cytoplasmic variation into the genetic model greatly increased the explained phenotypic variation. Cytoplasmic genetic variation was a central hub in the epistatic network controlling the plant metabolome. This epistatic influence manifested such that the cytoplasmic background could alter or hide pairwise epistasis between nuclear loci. Thus, cytoplasmic genetic variation plays a central role in controlling natural variation in metabolomic networks. This suggests that cytoplasmic genomes must be included in any future analysis of natural variation.
