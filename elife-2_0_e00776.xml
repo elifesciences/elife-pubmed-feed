@@ -31,15 +31,19 @@
         <FirstName>Jason</FirstName>
         <MiddleName>A</MiddleName>
         <LastName>Corwin</LastName>
+        <Affiliation>Department of Plant Sciences, University of California, Davis, Davis, United
+          States</Affiliation>
       </Author>
       <Author>
         <FirstName>Baohua</FirstName>
         <LastName>Li</LastName>
+        <Affiliation>Department of Amimal Movement, University of California, Davis, Davis, United
+          States</Affiliation>
       </Author>
       <Author>
         <FirstName>Suzi</FirstName>
         <LastName>Atwell</LastName>
-      </Author>
+        <Affiliation>Department of Plant Sciences, Imperial University, London, United Kingdom</Affiliation></Author>
       <Author>
         <FirstName>Daniel</FirstName>
         <MiddleName>J</MiddleName>
