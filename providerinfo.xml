@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE Provider PUBLIC "-//NLM//DTD LinkOut 1.0//EN"
+"http://www.ncbi.nlm.nih.gov/projects/linkout/doc/LinkOut.dtd">
+<Provider>
+    <ProviderId>NCBI to provide</ProviderId>
+    <Name>eLife Sciences Publications, Ltd</Name>
+    <NameAbbr>eLife</NameAbbr>
+    <SubjectType>publishers/providers</SubjectType>
+    <Attribute>Free</Attribute>
+    <Url>http://elifesciences.org</Url>
+    <Brief> eLife publishes outstanding research in the life sciences and biomedicine, from the most
+        fundamental and theoretical work, through to translational, applied, and clinical research.
+    </Brief>
+</Provider>
