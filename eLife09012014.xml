@@ -1,25 +1,23 @@
-<?xml version="1.0" ?>
-<!DOCTYPE LinkSet PUBLIC "-//NLM//DTD LinkOut 1.0//EN"
-"http://www.ncbi.nlm.nih.gov/projects/linkout/doc/LinkOut.dtd">
+<?xml version="1.0"?>
+<!DOCTYPE LinkSet PUBLIC "-//NLM//DTD LinkOut //EN" "LinkOut.dtd" [
+  <!ENTITY base.url "http://dx.doi.org/" >
+  <!ENTITY icon.url "http://YourIconURL" >
+]>
 <LinkSet>
     <Link>
-        <LinkId>eLife03125</LinkId>
-        <ProviderId>ProviderId assigned by NCBI(required)</ProviderId>
-        <IconUrl>URL of icon to be displayed on database records(required)</IconUrl>
+        <LinkId>hw01</LinkId>
+        <ProviderId>elife_PrId</ProviderId>
+        <IconUrl>&icon.url;</IconUrl>
         <ObjectSelector>
-            <Database>NCBI database in which links will appear(required)</Database>
+            <Database>PubMed</Database>
             <ObjectList>
-                <Query>Search retrieving records to be linked(repeatable,
-                    required unless <ObjId> is specified</Query>
+                <Query>"eLife"[ta]</Query>
             </ObjectList>
         </ObjectSelector>
         <ObjectUrl>
-            <Base>http://elifesciences.org/content/early/2014/08/29/eLife.03125</Base>
-            <Rule>http://elifesciences.org</Rule>
-            <SubjectType>individual online article</SubjectType>
-            <Attribute>Free</Attribute>
-            <Attribute>author manuscript</Attribute>
-          </ObjectUrl>
+            <Base>&base.url;</Base>
+            <Rule>&lo.doi;</Rule>
+            <Attribute>full-text online</Attribute>
+        </ObjectUrl>
     </Link>
 </LinkSet>
-
