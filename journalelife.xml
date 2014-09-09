@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE LinkSet PUBLIC "-//NLM//DTD LinkOut //EN" "LinkOut.dtd" [
+  <!ENTITY base.url "http://dx.doi.org/" >
+  <!ENTITY icon.url "http://cdn.elifesciences.org/images/elife_oa.png" >
+]>
+<LinkSet>
+  <Link>
+    <LinkId>hw01</LinkId>
+    <ProviderId>8981</ProviderId>
+    <IconUrl>&icon.url;</IconUrl>
+    <ObjectSelector>
+      <Database>PubMed</Database>
+      <ObjectList>
+        <Query>"eLife"[ta]</Query>
+      </ObjectList>
+    </ObjectSelector>
+    <ObjectUrl>
+      <Base>&base.url;</Base>
+      <Rule>&lo.doi;</Rule>
+      <Attribute>full-text online</Attribute>
+    </ObjectUrl>
+  </Link>
+</LinkSet>
