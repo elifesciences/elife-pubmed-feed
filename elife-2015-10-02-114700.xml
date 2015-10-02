@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.6//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd">
+<ArticleSet>
+    <Article>
+        <Journal>
+            <PublisherName>eLife Sciences Publications Limited</PublisherName>
+            <JournalTitle>eLife</JournalTitle>
+            <Issn>2050-084X</Issn>
+            <Volume>2</Volume>
+            <Issue>0</Issue>
+            <PubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>8</Day>
+            </PubDate>
+        </Journal>
+        <Replaces IdType="doi">10.7554/eLife.00776</Replaces>
+        <ArticleTitle>Cytoplasmic genetic variation and extensive cytonuclear interactions influence
+            natural variation in the metabolome</ArticleTitle>
+        <ELocationID EIdType="doi">10.7554/eLife.00776</ELocationID>
+        <Language>EN</Language>
+        <AuthorList>
+            <Author>
+                <FirstName>Bindu</FirstName>
+                <LastName>Joseph</LastName>
+                <Affiliation>Department of Plant Sciences, University of California, Davis, Davis, United
+                    States</Affiliation>
+                <Identifier Source="ORCID">http://orcid.org/5555-5555-5555-5555</Identifier>
+            </Author>
+            <Author>
+                <FirstName>Jason</FirstName>
+                <MiddleName>A</MiddleName>
+                <LastName>Corwin</LastName>
+                <Affiliation>Department of Plant Sciences, University of California, Davis, Davis, United
+                    States</Affiliation>
+            </Author>
+            <Author>
+                <FirstName>Baohua</FirstName>
+                <LastName>Li</LastName>
+                <Affiliation>Department of Amimal Movement, University of California, Davis, Davis, United
+                    States</Affiliation>
+            </Author>
+            <Author>
+                <FirstName>Suzi</FirstName>
+                <LastName>Atwell</LastName>
+                <Affiliation>Department of Plant Sciences, Imperial University, London, United Kingdom</Affiliation></Author>
+            <Author>
+                <FirstName>Daniel</FirstName>
+                <MiddleName>J</MiddleName>
+                <LastName>Kliebenstein</LastName>
+                <Suffix>Jr</Suffix>
+                <AffiliationInfo>
+                    <Affiliation>Department of Plant Sciences, Imperial University, London, United Kingdom</Affiliation>
+                </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation> DynaMo Center of Excellence, University of Copenhagen, Frederiksberg, Denmark</Affiliation>
+                </AffiliationInfo>
+            </Author>
+            <Author>
+                <CollectiveName>North American Barley Genome Project</CollectiveName>
+            </Author>
+        </AuthorList>
+        <GroupList>
+            <Group>
+                <GroupName>North American Barley Genome Project</GroupName>
+                <IndividualName>
+                    <FirstName>John Jacob</FirstName>
+                    <LastName>Han</LastName>
+                </IndividualName>
+                <IndividualName>
+                    <FirstName>Laura</FirstName>
+                    <LastName>Clancy</LastName>
+                </IndividualName>
+            </Group>
+        </GroupList>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.00776</ArticleId>
+        </ArticleIdList>
+        <History>
+            <PubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>15</Day>
+            </PubDate>
+            <PubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+            </PubDate>
+            <PubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>8</Day>
+            </PubDate>
+        </History>
+        <Abstract> Understanding genome to phenotype linkages has been greatly enabled by genomic
+            sequencing. However, most genome analysis is typically confined to the nuclear genome. We
+            conducted a metabolomic QTL analysis on a reciprocal RIL population structured to examine how
+            variation in the organelle genomes affects phenotypic variation. This showed that the
+            cytoplasmic variation had effects similar to, if not larger than, the largest individual
+            nuclear locus. Inclusion of cytoplasmic variation into the genetic model greatly increased the
+            explained phenotypic variation. Cytoplasmic genetic variation was a central hub in the
+            epistatic network controlling the plant metabolome. This epistatic influence manifested such
+            that the cytoplasmic background could alter or hide pairwise epistasis between nuclear loci.
+            Thus, cytoplasmic genetic variation plays a central role in controlling natural variation in
+            metabolomic networks. This suggests that cytoplasmic genomes must be included in any future
+            analysis of natural variation. DOI: http://dx.doi.org/10.7554/eLife.00776.001 </Abstract>
+        <ObjectList>
+            <Object Type="keyword">
+                <Param Name="value">genomic variation</Param>
+            </Object>
+            <Object Type="keyword">
+                <Param Name="value">maternal genetics</Param>
+            </Object>
+            <Object Type="keyword">
+                <Param Name="value">organellar variation</Param>
+            </Object>
+            <Object Type="keyword">
+                <Param Name="value">plant biology</Param>
+            </Object>
+            <Object Type="keyword">
+                <Param Name="value">genes</Param>
+            </Object>
+            <Object Type="keyword">
+                <Param Name="value">chromosomes</Param>
+            </Object>
+            <Object Type="keyword">
+                <Param Name="value">human</Param>
+            </Object>
+            <Object Type="NCBI:pubchem-substance">
+                <Param Name="id">46391334</Param>
+            </Object>
+        </ObjectList>
+    </Article>
+</ArticleSet>
+
