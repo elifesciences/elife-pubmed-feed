@@ -41,6 +41,10 @@
     <History/>
     <Abstract/>
     <ObjectList>
+        <Object Type="Erratum">
+            <Param Name="type">dio</Param>
+            <Param Name="id">10.7554/eLife.09457</Param>
+        </Object>
         <Object Type="keyword">
             <Param Name="value">neuroscience</Param>
         </Object>
